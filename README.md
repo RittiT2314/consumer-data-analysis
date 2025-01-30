@@ -64,6 +64,8 @@ consumer-data-analysis/
 ```
 
 - **pan_india_consumer_data.ipynb**: Jupyter Notebook with the complete implementation and analysis.
-- **dataset/**: Folder containing the dataset.
+- **dataset/**: Folder containing the dataset
+              - **Augmented_IndiaTransactMultiFacet2024 (1).csv**: Contains the Pan India Consumer Data.
+              - **list_of_cities_and_towns_in_india-834j.csv**: Contains data pertaining to the cities and towns in India.
 
 
