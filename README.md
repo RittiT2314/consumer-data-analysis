@@ -26,7 +26,6 @@ The dataset provides a comprehensive view of consumer behavior, purchasing patte
    - Geographic distribution of consumer spending patterns.
 
 ## Libraries Used
-- Python
 - Pandas
 - NumPy
 - Matplotlib
